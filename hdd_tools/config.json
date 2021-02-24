@@ -1,8 +1,8 @@
 {
   "name": "HDD Tools",
-  "version": "0.46",
+  "version": "0.47",
   "slug": "hdd_tools",
-  "description": "HDD Tools provides S.M.A.R.T information",
+  "description": "HDD Tools provides S.M.A.R.T  (mcgivergim)",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "startup": "before",
   "boot": "auto",
