@@ -1,6 +1,6 @@
 {
   "name": "HDD Tools",
-  "version": "0.49",
+  "version": "0.50",
   "slug": "hdd_tools",
   "description": "HDD Tools provides S.M.A.R.T  (mcgivergim)",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
