@@ -1,13 +1,12 @@
 {
   "name": "HDD Tools",
-  "version": "0.48",
+  "version": "0.49",
   "slug": "hdd_tools",
   "description": "HDD Tools provides S.M.A.R.T  (mcgivergim)",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "startup": "application",
   "boot": "auto",
   "map": ["share:rw"],
-  "devices": ["/dev/sda"],
   "privileged": ["SYS_RAWIO"],
   "homeassistant_api": true,
   "options": {
