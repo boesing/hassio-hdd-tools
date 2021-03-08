@@ -8,11 +8,15 @@ This add-on provides information about HDD Temperature from S.M.A.R.T using smar
 Temperature is visible in Home-Assistant via sensor sensor.hdd_temp.
 SMART attributes are mapped to sensor.hdd_temp sensor attributes.
 
+## NOTE
+
+This is a fork of the official repo (https://github.com/Draggon/hassio-hdd-tools) used only to test changes. Please use the official repo. This fork can change or become unavailable without previous notice.
+
 ## Installation
 
 Add the repository URL under **Supervisor (Hass.io) → Add-on Store** in your Home Assistant front-end:
 
-    https://github.com/Draggon/hassio-hdd-tools
+    https://github.com/McGiverGim/hassio-hdd-tools
 
 
 ## Configuration
